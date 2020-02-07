@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shaishaero.bitcoinlaa.com/sitemap.xml
